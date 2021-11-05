@@ -8,4 +8,6 @@
   <color name="secondary_variant">#FF4BACB8</color>
   <color name="text_on_secondary">#FF000000</color>
 
+  <color name="submit">#ff00ff00</color>
+  <color name="cancel">#ffff0000</color>
 </resources>

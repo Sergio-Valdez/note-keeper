@@ -11,10 +11,9 @@
   <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
   <!-- TODO: Remove or change this placeholder text -->
   <string name="hello_blank_fragment">Hello blank fragment</string>
-  <string name="add_note"/>
-  <string name="subject_hint"/>
-  <string name="text_of_note">Text of note</string>
-  <string name="text_hint"/>
-  <string name="save_label"/>
+  <string name="add_note">Add Note</string>
+  <string name="subject_hint">Subject</string>
+  <string name="text_hint">Text of note</string>
+  <string name="save_label">Save</string>
   <string name="cancel_label">Cancel</string>
 </resources>
